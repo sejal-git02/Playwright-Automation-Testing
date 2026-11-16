@@ -1,4 +1,4 @@
-# Playwright Automation Testing
+End-to-end web automation testing using Playwright and JavaScript.
 
 ## Project Overview
 This repository contains my hands-on automation testing project using Playwright and JavaScript.
