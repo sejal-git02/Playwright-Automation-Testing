@@ -1,6 +1,6 @@
 End-to-end web automation testing using Playwright and JavaScript.
 
-## Project Overview
+Project Overview
 This repository contains my hands-on automation testing project using Playwright and JavaScript.
 
 The objective is to automate web application testing and practice browser interactions, element identification, and test validations.
